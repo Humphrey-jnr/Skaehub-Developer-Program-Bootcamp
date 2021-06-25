@@ -12,9 +12,17 @@ Please make sure to update tests as appropriate.
 
 ## Tuple max and min values using lambda
 
-Uploading tuple_max_min.webm.mov…
+
+
+https://user-images.githubusercontent.com/65704925/123467126-d067c780-d5f8-11eb-93c7-674f35c8057b.mov
 
 ## Sort list of dictionary using lambda
 
-Uploading sortdictionary.webm.mov…
+https://user-images.githubusercontent.com/65704925/123467160-db225c80-d5f8-11eb-8d60-939cc72a3ce3.mov
+
+
+
+
+
+
 
