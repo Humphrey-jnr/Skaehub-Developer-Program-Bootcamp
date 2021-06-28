@@ -16,7 +16,6 @@ def message(score):
 
 
 def main():
-    count=1
     if int(number/2)*2==number:
         print("""Hints:
         The number is even""")
