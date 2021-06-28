@@ -7,9 +7,10 @@ score_fail=0
 number=random.randrange(0,10)
 
 def message(score):
-    client = Client("ACc57459795cd42b520978ecf3b5413641", "ba7879b7817b7e5f54094a94a8782725")
-    client.messages.create(to="+254797661925", 
-                       from_="+15097403668", 
+    #due to security reasons I can not expose my log in credentials
+    client = Client("AC***********", "**********")
+    client.messages.create(to="+2547*******", 
+                       from_="+1********", 
                        body="Your game score is"+str(score))
     
 
