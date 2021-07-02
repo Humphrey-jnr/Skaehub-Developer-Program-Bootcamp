@@ -1,6 +1,5 @@
 import random
 import os
-#from time import sleep
 from twilio.rest import Client
 from colorama import Fore, Back, Style
 
