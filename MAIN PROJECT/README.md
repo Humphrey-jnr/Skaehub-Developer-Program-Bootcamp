@@ -14,7 +14,7 @@ When the user makes the correct guess, it automatically sends the user an SMS or
 WhatsApp message with their final score.
 
 ### API'S used
-Twilio messaging API-For sending SMS messages to players
+Twilio messaging API-For sending SMS messages to users
 
 ### Tests
 To run the Tests please install pytest 
