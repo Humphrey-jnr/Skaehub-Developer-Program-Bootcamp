@@ -12,7 +12,7 @@ def clear():
 
 #function to send the message
 def message(score):
-    client = Client("ACc57459795cd42b520978ecf3b5413641", "32d4a914d0bbe4daeae97d9b282a99ac")
+    client = Client("AC*************", "********************************")
     client.messages.create(to=f"{phone_number}", 
                        from_="+15097403668", 
                        body="Your game score is"+str(score))
