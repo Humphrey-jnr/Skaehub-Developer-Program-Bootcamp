@@ -1,4 +1,5 @@
 ## Number guessing game
+### Description
 
 A CLI app that generates a random number from a range of values
 that is specified on user input. The user must guess the number after a hint from your
@@ -12,7 +13,18 @@ between the two numbers.
 When the user makes the correct guess, it automatically sends the user an SMS or
 WhatsApp message with their final score.
 
+### API'S used
+Twilio messaging API-For sending SMS messages to players
+
+### Tests
+To run the Tests please install pytest 
+run pip install pytest in the terminal
+
 ### Demo
 
-https://user-images.githubusercontent.com/65704925/123585175-682d0780-d7eb-11eb-887f-0f1a30b9e5b6.mov
+
+### Credits
+1.Skaehub Team
+
+
 
